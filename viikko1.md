@@ -31,7 +31,8 @@ Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
 [Centrian nettisivut](https://net.centria.fi/)
 
 
-| Syntax | Description |
+| Aikaisemmat tutkintoni | Valmistumisvuosi |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Ylioppilas | 2010 |
+| Puutarhuri | 2016 |
+| Leipuri | 2022 |
