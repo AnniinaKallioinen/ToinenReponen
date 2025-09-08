@@ -11,6 +11,9 @@ Olen kotoisin **Haapajärveltä** ja asuttuani aikuisiällä...
 Jos minun pitäisi kuvailla itseäni yhdellä lauseella, olisi se
 > Olen hauska, suorastaan naurettava.
 
+---
+
+
 ### Millaisista asioista pidän?
 1. Eläimistä, erityisesti koirastani Almasta
 2. Ulkoilusta ja metsäseikkailuista
@@ -28,3 +31,7 @@ Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
 [Centrian nettisivut](https://net.centria.fi/)
 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
