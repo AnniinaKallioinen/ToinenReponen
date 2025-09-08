@@ -6,6 +6,7 @@
 {
   "firstName": "Anniina",
   "lastName": "Kallioinen",
+  "DOB": 30.12.1991
   "age": 34
 }
 ```
