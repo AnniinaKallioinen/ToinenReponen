@@ -1,5 +1,17 @@
 # Hei vain!
 ## Nimeni on Anniina Kallioinen ja kerron nyt jotain itsestäni.
+
+
+```
+{
+  "firstName": "Anniina",
+  "lastName": "Kallioinen",
+  "age": 34
+}
+```
+
+
+
 Olen kotoisin **Haapajärveltä** ja asuttuani aikuisiällä...
 - Kuopiossa
 - Keuruulla
@@ -36,11 +48,3 @@ Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
 | Ylioppilas | 2010 |
 | Puutarhuri | 2016 |
 | Leipuri | 2022 |
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
