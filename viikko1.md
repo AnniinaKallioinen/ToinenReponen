@@ -8,6 +8,9 @@ Olen kotoisin **Haapajärveltä** ja asuttuani aikuisiällä...
   
 ... muutin lopulta takaisin tänne *maaseudun rauhaan* syksyllä 2023.
 
+Jos minun pitäisi kuvailla itseäni yhdellä lauseella, olisi se
+> Olen hauska, suorastaan naurettava.
+
 ### Millaisista asioista pidän?
 1. Eläimistä, erityisesti koirastani Almasta
 2. Ulkoilusta ja metsäseikkailuista
@@ -16,4 +19,11 @@ Olen kotoisin **Haapajärveltä** ja asuttuani aikuisiällä...
 5. Ruuanlaitosta ja leipomisesta
 
 Tässä kuva Alma-koirasta:
-![alt text](ammuli.jpeg)
+![alt text](ammuli.jpg)
+
+---
+
+Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
+[title](https://net.centria.fi/)
+
+
