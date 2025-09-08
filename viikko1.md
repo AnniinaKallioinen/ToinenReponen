@@ -36,3 +36,11 @@ Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
 | Ylioppilas | 2010 |
 | Puutarhuri | 2016 |
 | Leipuri | 2022 |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
