@@ -16,4 +16,4 @@ Olen kotoisin **Haapajärveltä** ja asuttuani aikuisiällä...
 5. Ruuanlaitosta ja leipomisesta
 
 Tässä kuva Alma-koirasta:
-![alt text](ammuli.jpg)
+![alt text](ammuli.jpeg)
