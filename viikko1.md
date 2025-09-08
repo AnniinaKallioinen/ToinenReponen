@@ -19,11 +19,12 @@ Jos minun pitäisi kuvailla itseäni yhdellä lauseella, olisi se
 5. Ruuanlaitosta ja leipomisesta
 
 Tässä kuva Alma-koirasta:
+
 ![alt text](ammuli.jpg)
 
 ---
 
 Olen tieto- ja viestintätekniikan opiskelija Centria-ammattikorkeakoulussa.
-[title](https://net.centria.fi/)
+[Centrian nettisivut](https://net.centria.fi/)
 
 
